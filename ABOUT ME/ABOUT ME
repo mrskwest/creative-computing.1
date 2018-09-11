@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>SKW</title>
+  </head>
+  <body>
+        <div style="background-color:black;color:white;padding:15px;">
+    <h1><center><font face="helvetica" size="8">SAVANNAH WEST</font></center></h1>
+    </div>
+    <div style="line-height:300%;">
+        <br>
+    </div>
+    <svg width="400" height="110">
+  <rect width="200" height="100" style="fill:black;" />
+   <text x="5" y="67" font-family="helvetica" font-size="35" fill=white> HOME </text>
+</svg>
+    <p><font face="helvetica" size="4.5">Here is a brief overview of myself, feel free to proceed or not. Whatever you feel like really.
+      <div style="line-height:150%;">
+          <br>
+      </div>
+<strong>SO…</strong>
+<div style="line-height:120%;">
+    <br>
+</div>
+I am originally from Utah, and before we move on I will answer your questions.<br> Yes, I grew up Mormon.
+No, I am not currently practicing. I only have one mom, and no, I have <br>not seen the play.
+<div style="line-height:120%;">
+    <br>
+</div>
+I am the oldest of three. I have two brothers one is 17 and one is 15.<br>
+Jackson is 17 and I adore him with all my heart. My other brother is 15 and
+sort of a pain in everyone’s<br> ass, but I still love him.
+<div style="line-height:120%;">
+    <br>
+</div>
+I am a Communication Design major, so I am freaky obsessed with typeface.
+I based which bank I chose <br> off of who had the better font. Anyways,
+I recently picked up roller skating and I am fully committed <br> to becoming the next Tony Harding.
+I mean, I am the most ungraceful person <br>
+I know. So, just imagine what that looks like on eight wheels.
+For now that will do.
+<div style="line-height:150%;">
+    <br>
+</div>
+<strong>- SKWEST</strong>
+</font></p>
+  <img src="dancingqueen.gif" alt="">
+</div>
+<div style="line-height:300%;">
+    <br>
+</div>
+<svg width="400" height="110">
+<rect width="278" height="100" style="fill:black;" />
+<text x="5" y="67" font-family="helvetica" font-size="35" fill=white> ASSIGNMENT.1 </text>
+</svg>
+</html>
