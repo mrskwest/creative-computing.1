@@ -1,7 +1,7 @@
 body{
 }
 .container2 {
-    position: fixed;
+    position: inherit;
 }
 .container {
     position: relative;

@@ -39,10 +39,11 @@ h1{
   margin: 0 auto;
   width: 100px;
   padding: inherit;
-  width: 700px;
-  height: 700px;
+  width: 70px;
+  height: 70px;
   background-color: white;
 }
+
 #blue{
   margin: 0 auto;
   width: 100px;
@@ -52,18 +53,16 @@ h1{
   background-color: royalblue;
 }
 #lightyellow{
-     position: fixed;
-     top: 8%;
-     left: 43%;
-     margin-left: -150px;
+     position: inherit;
+     margin-top: -628px;
+     margin-left: 400px;
   width: 400px;
   height: 630px;
   background-color: Cornsilk;
 }
 #red{
-  position: fixed;
-  top: 50%;
-  left: 63%;
+  position: inherit;
+   margin-top: -628px;
   margin-left: -150px;
   width: 80px;
   height: 230px;
@@ -71,10 +70,9 @@ h1{
   transform:rotate(35deg)
 }
 #white{
-  position: fixed;
-  top: 45%;
-  left: 53%;
-  margin-left: -150px;
+  position: inherit;
+  margin-top: 60px;
+  margin-left: 650px;
   width: 80px;
   height: 330px;
   background-color: PaleTurquoise;
@@ -83,12 +81,9 @@ h1{
 #tape{
   padding: 50px;
   margin: 50px;
-  position: fixed;
-  top: 70%;
-  left: 40%;
-  margin-top: -10;
-  margin-left: -100px;
-padding: inherit;
+  position: inherit;
+  margin-top: -130px;
+  margin-left: 410px;
 border-radius: 25px;
 background:LightSlateGray;
 padding: 20px;
@@ -98,11 +93,9 @@ height: 100px;
 #sideways{
      padding: 50px;
      margin: 50px;
-     position: fixed;
-     top: 30%;
-     left: 30%;
-     margin-top: -50;
-     margin-left: -100px;
+     position: inherit;
+     margin-top: -400px;
+     margin-left: 320px;
   padding: inherit;
   width: 80px;
   height: 430px;
