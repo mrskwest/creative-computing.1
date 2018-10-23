@@ -1,0 +1,57 @@
+body{
+background-color: #000000;
+}
+
+#hey{
+font-family: "futura";
+font-size: 190px;
+align-items: center;
+color: white;
+}
+
+.HI{
+  color: #7FFF00;
+  font-family: "futura";
+  font-size: 200px;
+  animation-duration: 3s;
+  animation-name: slidein;
+  animation-iteration-count: infinite;
+}
+
+
+.HELLO{
+  color:#FFFF00;
+  font-size: 250px;
+  font-family: "futura";
+  align-items: center;
+
+}
+
+.BYE{
+  color:	#FF00FF;
+  font-family: "futura";
+  font-size: 170px;
+    position: absolute;
+    white-space: nowrap;
+    -webkit-animation: move 5s infinite;
+}
+
+.UM{
+  -webkit-animation: move 5s infinite;
+  font-family: "futura";
+  color:#00BFFF;
+  font-size: 80px;
+}
+
+@-webkit-keyframes move {
+    100%   {left: 100%;}
+    50 {left: 50%;}
+    0%     {left: 0%;}
+}
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
