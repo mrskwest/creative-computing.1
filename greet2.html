@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+<style>
+#mydiv {
+    position: absolute;
+    text-align: center;
+    top:-90vh; left:-90vw;
+    width: 1000vw;
+    height: 1000vh;
+    background-color: white;
+    animation: move 60s infinite;
+
+}
+
+#tag {
+    position: absolute;
+    align: center;
+    top:90vh; left:90vw;
+    width: 60vw;
+    height: 60vh;
+
+
+}
+
+#a {
+    position: absolute;
+    text-align: center;
+    top:50vh; left:150vw;
+    width: 20vw;
+    height: 20vh;
+}
+
+#b {
+    position: absolute;
+    text-align: center;
+    top:30vh; left:80vw;
+    width: 16vw;
+    height: 16vh;
+
+}
+
+#c {
+    position: absolute;
+    text-align: center;
+    top:100vh; left:40vw;
+    width: 20vw;
+    height: 20vh;
+}
+
+#d {
+    position: absolute;
+    text-align: center;
+    top:15vh; left:120vw;
+    width: 18vw;
+    height: 18vh;
+}
+
+#e {
+    position: absolute;
+    text-align: center;
+    top:145vh; left:100vw;
+    width: 15vw;
+    height: 15vh;
+}
+
+#f {
+    position: absolute;
+    text-align: center;
+    top:150vh; left:170vw;
+    width: 20vw;
+    height: 20vh;
+}
+
+#g {
+    position: absolute;
+    text-align: center;
+    top:55vh; left:108vw;
+    width: 17vw;
+    height: 17vh;
+}
+
+#h {
+    position: absolute;
+    text-align: center;
+    top:135vh; left:140vw;
+    width: 20vw;
+    height: 20vh;
+}
+
+#i {
+    position: absolute;
+    text-align: center;
+    top:95vh; left:65vw;
+    width: 15vw;
+    height: 15vh;
+}
+
+#j {
+    position: absolute;
+    text-align: center;
+    top:85vh; left:168vw;
+    width: 20vw;
+    height: 20vh;
+}
+
+#k {
+    position: absolute;
+    text-align: center;
+    top:25vh; left:170vw;
+    width: 20vw;
+    height: 20vh;
+}
+
+
+@-webkit-keyframes move {
+      0% {
+        transform: translate(50px, 200px);
+      }
+
+      50% {
+        transform: translate(200px, 500px);
+      }
+      70% {
+        transform: translate(700px, 1000px);
+      }
+      90% {
+        transform: translate(200px, 500px);
+      }
+      100% {
+        transform: translate(50px, 200px);
+      }
+
+    }
+
+
+body {
+
+  background-color: white;
+}
+
+</style>
+<body>
+
+<div id="mydiv">
+  <div id="mydivheader"></div>
+
+  <div id="tag">
+    <a href="hello.html"><img src="tag.svg"></a>
+    </div>
+
+  <div id="a">
+    <img src="A.svg">
+  </div>
+
+  <div id="b">
+    <img src="B.svg">
+  </div>
+
+  <div id="c">
+    <img src="C.svg">
+  </div>
+
+  <div id="d">
+    <img src="D.svg">
+  </div>
+
+  <div id="e">
+    <img src="E.svg">
+  </div>
+
+  <div id="f">
+    <img src="F.svg">
+  </div>
+
+  <div id="g">
+    <img src="G.svg">
+  </div>
+
+  <div id="h">
+    <img src="H.svg">
+  </div>
+
+  <div id="i">
+    <img src="I.svg">
+  </div>
+
+  <div id="j">
+    <img src="J.svg">
+  </div>
+
+  <div id="k">
+    <img src="K.svg">
+  </div>
+
+</div>
+
+
+
+<script>
+$( function() {
+   $( "#mydiv" ).draggable();
+   $( "#abc" ).draggable();
+ } );
+
+</script>
+
+</body>
+</html>

@@ -65,3 +65,24 @@ div {
 	position:relative;
 	top:1px;
 }
+.Button3 {
+	background-color:#5FBEBA;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Trebuchet MS;
+  font-style:bold;
+	font-size:20px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.Button3:hover {
+	background-color:#5FAA9F;
+}
+.Button3:active {
+	position:relative;
+	top:1px;
+}

@@ -1,0 +1,43 @@
+body {
+
+  background-color: #fdc52c;
+}
+
+img {
+  position: absolute;
+}
+
+h1 {
+  font-family: FredokaOne-Regular;
+  font-size: 150px;
+  text-align: center;
+      padding-top: 150px;
+      padding-right: 40px;
+      padding-bottom: 40px;
+      padding-left: 40px;
+
+}
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FEED01;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
